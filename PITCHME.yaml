@@ -5,7 +5,7 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : night
 
 #
 # Theme-Override Setting
@@ -30,7 +30,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Resume - Brad Lee"
 
 #
 # Published Setting

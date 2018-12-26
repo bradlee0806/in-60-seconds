@@ -1,10 +1,23 @@
-# Let's Get Started
+# 簡歷 - 李哲宏
+
 
 ---
+@title[工作經歷]
 
-## Add Some Slide Candy
+@snap[north-west]
+## 工作經歷 - HTC
+@snapend
 
-![](assets/img/presentation.png)
+@snap[west span-55]
+**Director of Mobile Applicaton Software Development**
+2013/03 - 2017/03, (4 年 1 個月)
+*Shanghai City, China*
+- Team KPI criteria
+- Budget management
+- Responsible for various mobile applcations on 3rd party operation system
+- Responsible for various mobile applcations on HTC phone operation system
+- Responsible for China generic customizations, CMCC, CT, and CU
+@snapend
 
 ---
 @title[Customize Slide Layout]
