@@ -1,17 +1,18 @@
-# 簡歷 - 李哲宏
-
+## 個人簡歷
+### Brad Lee, 李哲宏
 
 ---
 @title[工作經歷]
 
 @snap[north-west]
-## 工作經歷 - HTC
+## 工作經歷 - HTC (11 年)
 @snapend
 
 @snap[west span-55]
 **Director of Mobile Applicaton Software Development**
 2013/03 - 2017/03, (4 年 1 個月)
 *Shanghai City, China*
+
 - Team KPI criteria
 - Budget management
 - Responsible for various mobile applcations on 3rd party operation system
